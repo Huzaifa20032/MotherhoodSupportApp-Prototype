@@ -1,10 +1,10 @@
 # Maa-Loomat: Designing a Culturally-Grounded Motherhood Support App for Pakistani Mothers
 
-**Author:** Mohammad Huzaifa, Bushra Zubair, Tooba Farooq
+**Authors:** Mohammad Huzaifa, Bushra Zubair, Tooba Farooq
 **Date:** 2025  
-**Status:** Unsubmitted Research Paper  
+**Status:** Unsubmitted Research Paper
 
-This repository contains my independent research paper, *"Maa-Loomat: Designing a Culturally Grounded Motherhood Support App for Pakistani Mothers"*.
+This repository contains my research paper, *"Maa-Loomat: Designing a Culturally Grounded Motherhood Support App for Pakistani Mothers"*.
 
 The link to the prototype is: https://www.figma.com/design/2DgpsEPVBxHWNjJCkWY6VR/Parenthood?node-id=0-1&t=bKxAx0CiQELQ5Fzp-1
 
